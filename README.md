@@ -5,6 +5,7 @@ This repository contains the over-the-air throughput and received signal strengt
 **Benchmarking Software Defined Radio Based 5G Deployments With srsRAN: Lessons Learned**  
 Asheesh Tripathi, Fahim Bashar, Mayukh Roy Chowdhury, Aloizio Da Silva, Scott F. Midkiff  
 Commonwealth Cyber Initiative, Virginia Tech, USA  
+IEEE WCNC 2025, Milan,Italy 24-27 March 2025
 
 The dataset was collected using various USRP (Universal Software Radio Peripheral) devices under different transmission modes and configurations. It is structured into multiple folders and files for easy navigation and understanding.
  
