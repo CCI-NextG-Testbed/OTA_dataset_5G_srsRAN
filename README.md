@@ -75,7 +75,7 @@ You can explore the dataset by navigating to the appropriate USRP model folder (
  
 ### 2. Analyzing RSSI and Performance Data
  
-- **RSSI Data**: The `usrp_rssi_data_organized.csv` file contains all the necessary RSSI measurements across different scenarios. You can analyze these measurements to compare signal strength variations for different configurations.
+- **RSS Data**: The `usrp_rssi_data_organized.csv` file contains all the necessary RSS measurements across different scenarios. You can analyze these measurements to compare signal strength variations for different configurations.
 - **Performance Data**: The `final_performance_evaluations.csv` file provides the summarized performance evaluation metrics, which were used to generate the graphs in the paper. This includes various key performance indicators for each of the transmission modes and configurations.
  
 ### 3. Scenario Analysis
