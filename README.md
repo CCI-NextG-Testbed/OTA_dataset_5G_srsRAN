@@ -2,10 +2,8 @@
  
 This repository contains the over-the-air throughput and received signal strength measurements dataset generated for the paper:
  
-**Benchmarking Software Defined Radio Based 5G Deployments With srsRAN: Lessons Learned**  
-Asheesh Tripathi, Fahim Bashar, Mayukh Roy Chowdhury, Aloizio Da Silva, Scott F. Midkiff  
-Commonwealth Cyber Initiative, Virginia Tech, USA  
-IEEE WCNC 2025, Milan,Italy 24-27 March 2025
+**A. Tripathi, F. Bashar, M. R. Chowdhury, A. Da Silva and S. F. Midkiff, "Benchmarking Software Defined Radio Based 5G Deployments With srsRAN: Lessons Learned," 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6, doi: 10.1109/WCNC61545.2025.10978285.**  
+
 
 The dataset was collected using various USRP (Universal Software Radio Peripheral) devices under different transmission modes and configurations. It is structured into multiple folders and files for easy navigation and understanding.
  
@@ -102,7 +100,7 @@ Where:
 If you use this dataset in your research or projects, please cite the following paper:
  
  
-Tripathi, A., Bashar, F., Chowdhury, M. R., Da Silva, A., & Midkiff, S. F. (2025). Benchmarking Software Defined Radio Based 5G Deployments With srsRAN: Lessons Learned. Commonwealth Cyber Initiative, Virginia Tech, USA.
+A. Tripathi, F. Bashar, M. R. Chowdhury, A. Da Silva and S. F. Midkiff, "Benchmarking Software Defined Radio Based 5G Deployments With srsRAN: Lessons Learned," 2025 IEEE Wireless Communications and Networking Conference (WCNC), Milan, Italy, 2025, pp. 1-6, doi: 10.1109/WCNC61545.2025.10978285.
  
 
 ## Contact
